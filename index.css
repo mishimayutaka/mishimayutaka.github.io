@@ -1,0 +1,250 @@
+body {
+    margin: 0%;
+}
+
+.header {
+    background-color: rgba(157, 204, 224, 0.7);
+    height: 80px;
+}
+
+.header-logo {
+    float: left;
+    height: 80px;
+    font-size: 40px;
+    padding: 0 40px;
+    display: inline-block;
+    font-family: serif;
+}
+
+.header-list {
+    float: right;
+}
+
+li {
+    list-style: none;
+    float: left;
+    font-size: 20px;
+    padding: 15px 40px;
+    display: inline-block;
+    font-family: Impact;
+    border-right: 1px solid rgba(0, 26, 255, 0.418);
+    border-left: 1px solid rgba(0, 26, 255, 0.418);
+}
+
+li:hover {
+    background-color: rgba(157, 204, 224, 1);
+}
+
+ul{
+    padding: 0%;
+    margin: 0%;
+}
+
+.contact-access {
+    padding: 18px 40px;
+}
+
+.h-contents {
+    height: 400px;
+    background-color: rgba(196, 181, 150, 0.7);
+    background-image: url(yutty.JPG);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    position: relative;
+    border-bottom: 1px solid rgba(50, 50, 50, 0.6);
+}
+
+.h-message {
+    width: 50%;
+    height: 400px;
+    position: absolute;
+}
+
+h1 {
+    position: absolute;
+    top: 150px;
+    font-size: 40px;
+    font-family: MS Mincho;
+}
+
+a {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.icon {
+    color: white;
+    font-size: 1.5em;
+}
+
+.twitter {
+    background-color: rgb(46, 198, 245);
+    border-radius: 10px; 
+}
+
+.sns {
+    width: 100%;
+    position: absolute;
+    top: 280px;
+    text-align: center;
+}
+
+
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: serif;
+    margin-top: 0px;
+}
+
+.m-1 {
+    background-color: rgba(195, 243, 183, 0.219);
+}
+
+.borderline1 {
+    height: 50px;
+    border-bottom: 1px solid rgba(50, 50, 50, 0.6);
+    background-color: rgba(195, 243, 183, 0.219);
+}
+
+.introduce {
+    width: 100%;
+    height: 400px;
+    background-image:url(introduce.JPG);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 45%;
+}
+
+.int-message {
+    width: 50%;
+    float: right;
+    background-color: rgba(226, 221, 233, 0.5);
+    padding: 20px;
+    margin: 0px;
+    border-radius: 20px;
+}
+
+.m-2 {
+    background-color: rgba(128, 120, 238, 0.219);
+}
+
+.borderline2 {
+    height: 50px;
+    border-bottom: 1px solid rgba(50, 50, 50, 0.6);
+    background-color: rgba(128, 120, 238, 0.219);
+}
+
+.life {
+    width: 100%;
+    display: inline-block;
+}
+
+.time {
+    width:25%;
+    text-align: right;
+    float: left;
+}
+
+.m2-message {
+    width: 70%;
+    text-align: left;
+    float: right;
+}
+
+.m-3 {
+    text-align: center;
+    background-color: rgba(236, 167, 111, 0.219);
+}
+
+.nikka {
+    width: 60%;
+}
+
+.nikka-message {
+    width: 70%;
+    background-color: rgba(226, 221, 233, 0.5);
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
+
+span {
+    color: rgb(94, 48, 10);
+}
+
+.borderline3 {
+    height: 50px;
+    border-bottom: 1px solid rgba(50, 50, 50, 0.6);
+    background-color: rgba(236, 167, 111, 0.219);
+}
+
+.contact {
+    text-align: center;
+    background-color: rgba(20, 30, 75, 0.7);
+}
+
+.contact-title {
+    color: white;
+    margin: 0px;
+    font-size: 50px;
+}
+
+.contact-message {
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.contact-form {
+    width: 50%;
+    height: 240px;
+    float: left;
+    background-color: rgba(20, 30, 75, 0.7);
+}
+
+.con-mail {
+    font-size:　5px;
+    color: white;
+    margin-bottom: 0px;
+}
+
+.con-message {
+    font-size:　5px;
+    color: white;
+    margin-bottom: 0px;
+}
+
+.input-mail {
+    width: 80%;
+    height: 20px;
+}
+
+.input-message {
+    width: 80%;
+    height: 70px;
+}
+
+.input-submit {
+    width: 30%;
+    height: 40px;
+    background-color: rgb(183, 204, 202);
+}
+
+.change-image {
+    background-color: rgba(20, 30, 75, 0.7);
+    width: 50%;
+    height: 240px;
+    float: right;
+}
+
+.borderline4 {
+    margin-top: 240px;
+    height: 30px;
+    border-bottom: 1px solid rgba(50, 50, 50, 0.6);
+    background-color: rgba(20, 30, 75, 0.7);
+}
